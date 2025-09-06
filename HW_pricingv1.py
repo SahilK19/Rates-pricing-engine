@@ -1,4 +1,4 @@
-# Hull-White Callable Bond Pricing with OAS Adjustment
+ # Hull-White Callable Bond Pricing with OAS Adjustment
 # ----------------------------------------------------
 # Simulates Hull-White interest rate paths, prices a callable bond via LSM,
 # and fits an OAS (Option-Adjusted Spread) to match a given market price.
